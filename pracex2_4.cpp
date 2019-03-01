@@ -30,5 +30,8 @@ int av(int x, int y){
 	}
 	}
 	
-	
+
+
+
+
 }
